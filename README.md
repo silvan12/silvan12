@@ -1,7 +1,7 @@
 ## 👋 Hello 
 I'm Silvan and I work as a full-stack developer.
 - 🔭 I’m currently working on [silvan.tf](https://silvan.tf/)
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++/C#
 ## 🛠 I've worked with:
 
 [<img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://python.org/)
