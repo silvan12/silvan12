@@ -1,6 +1,6 @@
 ## 👋 Hello 
 I'm Silvan and I work as a full-stack developer.
-- 🔭 I’m currently working on [silvan.tf](https://silvan.tf/)
+- 🔭 I’m currently working on [silvan.tf](https://github.com/silvan12/silvan.tf/)
 - 🌱 I’m currently learning C/C++/C#
 ## 🛠 I've worked with:
 
